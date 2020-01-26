@@ -7,7 +7,7 @@ layout: page
 
 # Exploration à Montpellier, le 12 février 2020
 
-Pour découvrir, pratiquer, apprendre et questionner **l'univers des thés de Chine**
+Pour découvrir et explorer **l'univers des thés de Chine**
 
 Exemple de sujets :
 
@@ -30,7 +30,7 @@ Dans chaque lieu, en binôme ou en groupe, on explore une partie des sujets via 
 
 ## Qui anime ?
 
-Nous sommes Thaïs et Stéphane ; enthousiastes à l'idée d'échanger et de partager avec vous sur les thés de Chine.
+Thaïs et Stéphane : nous sommes enthousiastes à l'idée d'échanger et de partager avec vous sur les thés de Chine.
 
 Thaïs :
 > J'ai découvert le monde du thé à 16 ans en Chine pendant mes études. 
