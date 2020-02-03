@@ -12,6 +12,14 @@ Le coût de la journée est de **30 €** - _ce prix intègre le repas du midi_
 
 Avant la journée, on s’appellera une vingtaine de minutes pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.  
 
+## Qui vient ?
+
+Pour l'instant il reste 5 places :
+
+- Aude C.
+- Erick G.
+- Yannick F.
+
 ## Attentes collectives
 
 Nous accordons beaucoup d’importance à ce que toute personne qui nous rejoint se sente en confiance.
