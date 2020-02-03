@@ -11,12 +11,12 @@ Pour découvrir et explorer **l'univers des thés de Chine**
 
 Exemple de sujets :
 
-- infusions : (l'eau, la température, Gong fu cha, etc.)
-- différents types de thés : (vert, bleu, rouge, blanc, jaune, etc.)
+- les petits secrets de l'infusion
+- les différents types de thés et leurs profils
 - Pu'er, un autre univers : (cru, cuit, fermenté, etc.)
-- dégustations : (arôme, saveur, texture, couleur, etc.)
-- ustensiles : (gaiwan, théière Yixing Chaozhou, Jianshui, etc. )
-
+- déguster et echanger : (arôme, saveur, texture, couleur, etc.)
+- découvrir les ustensiles
+  
 {% include s-inscrire.html %}
 
 Contact : [Stéphane](mail:stephane.langois@scopyleft.fr) ou [nous contacter](/nous-contacter)
