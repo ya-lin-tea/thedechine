@@ -17,9 +17,6 @@ Exemple de sujets :
 - dégustations : (arôme, saveur, texture, couleur, etc.)
 - ustensiles : (gaiwan, théière Yixing Chaozhou, Jianshui, etc. )
 
-Exemples de thés que nous allons abordés :
-
-
 {% include s-inscrire.html %}
 
 Contact : [Stéphane](mail:stephane.langois@scopyleft.fr) ou [nous contacter](/nous-contacter)
