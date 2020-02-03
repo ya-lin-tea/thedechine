@@ -77,7 +77,7 @@ Nous pensons déjeuner à [L'Oignon Givré](https://danslajungle.oisiflorus.com/
 
 C'est pour toi si tu aimes le thé ou tu est curieu·x·se d'apprendre, même et surtout si tu n'y connais rien
   
-Nous souhaitons être attentif à ce que tout le monde puisse se sentir à l'aise, nous proposons une fiche sur les [attentes collectives](https://thedechine.oisiflorus.com/attentes-collectives) pour clarifier nos attentes
+Nous souhaitons être attenti·f·ve·s à ce que tout le monde puisse se sentir à l'aise, nous proposons une fiche sur les [attentes collectives](https://thedechine.oisiflorus.com/attentes-collectives) pour clarifier nos attentes
 
 ## Il faut que je prévois des trucs ?
 
