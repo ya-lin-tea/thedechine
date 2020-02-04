@@ -10,7 +10,7 @@ Pour t’inscrire tu peux nous envoyer un mail : [stephane@scopyleft.fr](mailto:
   
 Le coût de la journée est de **30 €** - _ce prix intègre le repas du midi_  
 
-Avant la journée, on s’appellera une vingtaine de minutes pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.  
+Avant la journée, on s’appellera pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.  
 
 ## Qui vient ?
 
@@ -31,4 +31,4 @@ Dans les journées que nous vous proposons, nous supposons que les hôtes sont i
 
 Nous avons donc décidé de proposer des conseils qui permettent de faire en sorte que chacun·e se sente à l’aise.  
 
-- [Attentes collectives](/attentes-collectives)
+- [Pour creuser sur les attentes collectives](/attentes-collectives)
