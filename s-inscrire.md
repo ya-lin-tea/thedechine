@@ -14,11 +14,12 @@ Avant la journée, on s’appellera une vingtaine de minutes pour faire connaiss
 
 ## Qui vient ?
 
-Pour l'instant il reste 5 places :
+Pour l'instant il reste 4 places :
 
 - Aude C.
 - Erick G.
 - Yannick F.
+- Bénédicte L.
 
 ## Attentes collectives
 
