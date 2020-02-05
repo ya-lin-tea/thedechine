@@ -14,7 +14,7 @@ Exemple de sujets :
 - les petits secrets de l'infusion
 - les différents types de thés et leurs profils
 - Pu'er, un autre univers : (cru, cuit, fermenté, etc.)
-- déguster et echanger : (arôme, saveur, texture, couleur, etc.)
+- déguster et échanger : (arôme, saveur, texture, couleur, etc.)
 - découvrir les ustensiles
   
 {% include s-inscrire.html %}
@@ -23,7 +23,7 @@ Contact : [Stéphane](mail:stephane.langois@scopyleft.fr) ou [nous contacter](/n
 
 ## On va faire quoi ?
 
-Nous serons 10 personnes maximum et partirons à la rencontre de lieux insolites à Montpellier pour apprendre sur les thés de Chine.  
+Nous serons 10 personnes maximum et partirons à la rencontre de lieux insolites à Montpellier pour découvrir les thés de Chine.  
   
 Dans chaque lieu, en binôme ou en groupe, on explore une partie des sujets en jouant des ateliers puis on passe à l'endroit suivant. Les trajets entre les différents lieux sont utilisés pour échanger sur la session qui vient de se dérouler.
 
@@ -33,15 +33,15 @@ Thaïs et Stéphane : nous sommes enthousiastes à l'idée d'échanger et de par
 
 Thaïs :
 > J'ai découvert le monde du thé à 16 ans en Chine pendant mes études. 
-> Depuis 6 ans, je m'y intéresse vraiment. J'ai passé deux diplômes d'Etat chinois : maitre de cérémonie du thé (茶艺师）et testeur de thé (品茶圆).  
-> J'étudies et teste de nouveaux thés quotidiennement et tout ce qui tourne autour du thé (théières, ustensiles, techniques, poterie, etc).  
+> Depuis 6 ans, je m'y intéresse vraiment. J'ai passé deux diplômes d'Etat chinois : maître de cérémonie du thé (茶艺师）et testeur de thé (品茶圆).  
+> J'étudie et teste de nouveaux thés quotidiennement et tout ce qui tourne autour du thé (théières, ustensiles, techniques, poterie, etc).  
 
 > Aujourd'hui, je suis juriste d'affaire entre la Chine et la France et dans le monde du thé je suis en relation avec les producteurs, vendeurs, profs, écoles de thé, salon de thé, amateurs et représentants des grandes marques de thé.
 
 Stéphane :
 > En 2012, un ami qui vivait au Japon m'a ramené un thé qui m'a éveillé. 4 ans plus tard, c'est ma fille qui en me poussant à rentrer dans une boutique du boulevard Saint-Germain a créé le déclic. [M. Messavant](https://lelephant-larevue.fr/thematiques/chine-produit-6-grandes-familles-de-the/), le propriétaire, a attisé ma curiosité en me faisant découvrir les thés de Chine et la culture associée.  
 
-> En parallèle, je travaille depuis 10 ans sur les pratiques collaboratives et propose des formats d'apprentissages originaux comme, par exemple, cette journée d'exploration.
+> En parallèle, je travaille depuis 10 ans sur les pratiques collaboratives et propose des formats d'apprentissage originaux comme, par exemple, cette journée d'exploration.
 
 ## C'est quand ?
 
@@ -55,7 +55,7 @@ _Tramway : arrêt Comédie - (ligne 1 et 2)_
 
 ## Ça coûte combien cette petite escapade ?
 
-30€ et ça comprends [le repas du midi](https://danslajungle.oisiflorus.com/montpellier/l-oignon-givre.html)  
+30€ et ça comprend [le repas du midi](https://danslajungle.oisiflorus.com/montpellier/l-oignon-givre.html)  
 
 ### Vous faites quoi des sous ?
 
@@ -75,7 +75,7 @@ Nous pensons déjeuner à [L'Oignon Givré](https://danslajungle.oisiflorus.com/
 
 ## C'est pour qui ?
 
-C'est pour toi si tu aimes le thé ou tu est curieu·x·se d'apprendre, même et surtout si tu n'y connais rien
+C'est pour toi si tu aimes le thé ou tu es curieu·x·se d'apprendre, même et surtout si tu n'y connais rien
   
 Nous souhaitons être attenti·f·ve·s à ce que tout le monde puisse se sentir à l'aise, nous proposons une fiche sur les [attentes collectives](https://thedechine.oisiflorus.com/attentes-collectives) pour clarifier nos attentes
 
