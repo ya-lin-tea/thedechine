@@ -14,12 +14,14 @@ Avant la journée, on s’appellera pour faire connaissance, discuter de tes att
 
 ## Qui vient ?
 
-Pour l'instant il reste 4 places :
+Pour l'instant il reste 2 places :
 
 - Aude C.
 - Erick G.
 - Yannick F.
 - Bénédicte L.
+- Cathy C.
+- Lise 
 
 ## Attentes collectives
 
