@@ -14,7 +14,7 @@ Avant la journée, on s’appellera pour faire connaissance, discuter de tes att
 
 ## Qui vient ?
 
-Pour l'instant il reste 2 places :
+Pour l'instant il reste 1 place :
 
 - Aude C.
 - Erick G.
@@ -22,6 +22,7 @@ Pour l'instant il reste 2 places :
 - Bénédicte L.
 - Cathy C.
 - Lise 
+- Thibault J.
 
 ## Attentes collectives
 
