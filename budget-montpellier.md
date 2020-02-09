@@ -2,4 +2,6 @@
 layout: page
 ---
 
-Pour l'instant, il n'y a ni entrée, ni sortie d'argent  
+## Recettes
+
+inscrit·e·s : 7 x 30 = 210 €
