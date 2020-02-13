@@ -17,7 +17,7 @@ Exemple de sujets :
 - déguster et échanger : (arôme, saveur, texture, couleur, etc.)
 - découvrir les ustensiles
   
-{% include s-inscrire.html %}
+<!-- {% include s-inscrire.html %} -->
 
 Contact : [Stéphane](mail:stephane.langois@scopyleft.fr) ou [nous contacter](/nous-contacter)
 
