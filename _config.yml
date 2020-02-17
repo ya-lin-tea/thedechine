@@ -10,6 +10,8 @@ defaults:
 collections:
   montpellier:
     output: true
+  documentation:
+    output: true
 
 plugins:
   - jekyll-remote-theme
