@@ -1,5 +1,7 @@
 ---
 layout: page
+nom: inscriptions
+description: fiche pour les inscriptions
 ---
 
 # Inscription pour une journée de cogitation
@@ -21,7 +23,7 @@ Pour l'instant il reste 1 place :
 - Yannick F.
 - Bénédicte L.
 - Cathy C.
-- Lise 
+- Lise S.
 - Thibault J.
 
 ## Attentes collectives
