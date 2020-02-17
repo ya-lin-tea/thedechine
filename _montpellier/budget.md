@@ -10,8 +10,7 @@ inscrit·e·s : 7 x 30 = 210 €
 
 ## Dépenses
 
-- Viennoiserie
-- s : 10 €
+- Viennoiseries : 10 €
 - Mezzanine : 20 €
 - Oignon givré : 68 €
 - Theod'Art : 20 €
