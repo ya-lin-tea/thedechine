@@ -7,7 +7,7 @@ layout: page
 
 # Exploration à Nantes, le 17 mars 2020
 
-**Découvrir et explorer l'autre univers des thés**
+**Découvrir et explorer les autres univers du thé**
 
 Exemple de sujets :
 
@@ -27,7 +27,7 @@ Nous serons 10 personnes maximum et partirons à la rencontre de lieux insolites
   
 Dans chaque lieu, en binôme ou en groupe, on explore une partie des sujets en jouant des ateliers puis on passe à l'endroit suivant. Les trajets entre les différents lieux sont utilisés pour échanger sur la session qui vient de se dérouler.
 
-_Précédentes éditions : [Montpellier](/montpellier)_
+_Précédente édition : [Montpellier](/montpellier)_
 
 ## Qui anime ?
 
