@@ -4,17 +4,6 @@ nom: table d'infusion
 description: table d'infusion par type de thé avec l'approche - gong fu cha
 ---
 
-<style>
-    .footnotes ol li::before {
-        position: absolute;
-    }
-    .footnotes p {
-
-        display: inline;
-    }
-
-</style>
-
 ## Table d'infusion pour _gong fu cha_
 
 > Cette table peut servir de point de départ pour vos infusions.  
