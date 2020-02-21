@@ -5,9 +5,9 @@ layout: page
 
 <br>
 
-# Exploration à Montpellier, le 12 février 2020
+# Exploration à Nantes, le 17 mars 2020
 
-Pour découvrir et explorer **l'univers des thés de Chine**
+**Découvrir et explorer l'autre univers des thés**
 
 Exemple de sujets :
 
@@ -17,15 +17,17 @@ Exemple de sujets :
 - déguster et échanger : (arôme, saveur, texture, couleur, etc.)
 - découvrir les ustensiles
   
-<!-- {% include s-inscrire.html %} -->
+{% include s-inscrire.html %}
 
 Contact : [Stéphane](mail:stephane.langois@scopyleft.fr) ou [nous contacter](/nous-contacter)
 
 ## On va faire quoi ?
 
-Nous serons 10 personnes maximum et partirons à la rencontre de lieux insolites à Montpellier pour découvrir les thés de Chine.  
+Nous serons 10 personnes maximum et partirons à la rencontre de lieux insolites à Nantes pour découvrir les thés de Chine.  
   
 Dans chaque lieu, en binôme ou en groupe, on explore une partie des sujets en jouant des ateliers puis on passe à l'endroit suivant. Les trajets entre les différents lieux sont utilisés pour échanger sur la session qui vient de se dérouler.
+
+_Précédentes éditions : [Montpellier](/montpellier)_
 
 ## Qui anime ?
 
@@ -45,13 +47,12 @@ Stéphane :
 
 ## C'est quand ?
 
-La journée démarre le **mercredi 12 février 2020 à 9h30** dans [un appartement dans l'hyper centre](https://www.openstreetmap.org/node/6407757394) et se termine vers 18h00.  
+La journée démarre le **mercredi 17 mars 2020 à 9h30** [à la Grande Barge](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html) et se termine vers 18h00.  
 
 **Adresse du point de rendez-vous** :  
-_Chez Elie, Rachelle, Alicia et Romain_  
-_8, rue des Soeurs Noires_  
-_3ème sonnette en partant du haut_
-_Tramway : arrêt Comédie - (ligne 1 et 2)_  
+La Grande Barge
+8, rue Grande Biesse
+44000 Nantes
 
 ## Ça coûte combien cette petite escapade ?
 
@@ -85,14 +86,12 @@ Ta bonne humeur et de quoi t’habiller confortablement pour marcher (un peu).
 
 ## Quelques lieux pressentis pour cette édition
 
-- [Théod'Art](https://danslajungle.oisiflorus.com/montpellier/theod-art.html)
-- [Chic et Bohème](https://danslajungle.oisiflorus.com/montpellier/chic-et-boheme.html)
-- [Fiers de lettres](https://danslajungle.oisiflorus.com/montpellier/fiers-de-lettres.html)
-- [L'Oignon Givré](https://danslajungle.oisiflorus.com/montpellier/l-oignon-givre.html)
-- [L'Oranger](https://danslajungle.oisiflorus.com/montpellier/l-oranger.html)
+- [Bad Hunter](https://danslajungle.oisiflorus.com/nantes/bad-hunter.html)
+- [Ici](https://danslajungle.oisiflorus.com/nantes/ici.html)
+- [Les bien aimés](https://danslajungle.oisiflorus.com/nantes/les-bien-aimes.html)
 
 ## Est-ce que d'autres villes sont prévues ?
 
 Pas encore, s'il y a de l'intérêt et qu'on découvre de la valeur on risque de jouer ce type de journée à :
 
-- Lyon, Bordeaux, Lille, Marseille, Nantes, Rennes, Tours, Toulouse, Paris, Strasbourg, Grenoble, La Rochelle, etc.
+- Lyon, Bordeaux, Lille, Marseille, Rennes, Tours, Toulouse, Paris, Strasbourg, Grenoble, La Rochelle, etc.
