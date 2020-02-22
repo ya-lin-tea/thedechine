@@ -59,7 +59,7 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
   
 [^9]: vidéos de façonnage :
 
-    \- [wulong tea rolling](https://youtu.be/CS-KCBmY2pA?t=745)
+    \- [wulong tea rolling](https://youtu.be/CS-KCBmY2pA?t=745)  
     \- [pu'er tea cake](https://youtu.be/syDZMKuU1tY?t=22)
 
 [^10]:  . vidéos de séchage :
@@ -71,5 +71,5 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
 
 [^12]: . vidéos sur la fermentation
 
-    \- [sheng cha fermentation](https://youtu.be/d2BekCvAZqM?t=448)
+    \- [sheng cha fermentation](https://youtu.be/d2BekCvAZqM?t=448)  
     \- [shu cha fermentation](https://invidio.us/watch?v=oI4yDyH1oUM)
