@@ -42,34 +42,34 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
 
 [^2]: [tea processing chart](https://teaepicure.com/tea-processing-chart/)
 
-[^3]: [white tea picking](https://www.youtube.com/watch?v=GtDSfYq4sPg&feature=youtu.be&t=765)
+[^3]: [white tea picking](https://www.youtube.com/GtDSfYq4sPg?t=765)
 
 [^4]: vidéos sur le fletrissage :
 
-    \- [red tea withering](https://youtu.be/kk7fA1-t7YA?t=345)  
-    \- [pu'er tea withering](https://youtu.be/ZAcpNMRY4LE?t=587)
+    \- [red tea withering](https://invidio.us/kk7fA1-t7YA?t=345)  
+    \- [pu'er tea withering](https://invidio.us/ZAcpNMRY4LE?t=587)
 
-[^5]: [wulong tea oxydation](https://youtu.be/CS-KCBmY2pA?t=640)
+[^5]: [wulong tea oxydation](https://invidio.us/CS-KCBmY2pA?t=640)
 
-[^6]: [red tea rolling machine](https://youtu.be/kk7fA1-t7YA?t=437)
+[^6]: [red tea rolling machine](https://invidio.us/kk7fA1-t7YA?t=437)
 
-[^7]: [green tea fixation](https://youtu.be/_KxwUpEEq64?t=614)
+[^7]: [green tea fixation](https://invidio.us/_KxwUpEEq64?t=614)
 
-[^8]: [sweltering](https://youtu.be/PhaeOHivt6s?t=342)
+[^8]: [sweltering](https://invidio.us/PhaeOHivt6s?t=342)
   
 [^9]: vidéos de façonnage :
 
-    \- [wulong tea rolling](https://youtu.be/CS-KCBmY2pA?t=745)  
-    \- [pu'er tea cake](https://youtu.be/syDZMKuU1tY?t=22)
+    \- [wulong tea rolling](https://invidio.us/CS-KCBmY2pA?t=745)  
+    \- [pu'er tea cake](https://invidio.us/syDZMKuU1tY?t=22)
 
 [^10]:  . vidéos de séchage :
 
-    \- [white tea drying](https://youtu.be/GtDSfYq4sPg?t=1981)  
-    \- [four de séchage industriel](https://invidio.us/watch?v=ftMU1J-4Jvg)
+    \- [white tea drying](https://invidio.us/GtDSfYq4sPg?t=1981)  
+    \- [four de séchage industriel](https://invidio.us/ftMU1J-4Jvg)
 
-[^11]: . [wulong roasting](https://youtu.be/CS-KCBmY2pA?t=1711)
+[^11]: . [wulong roasting](https://invidio.us/CS-KCBmY2pA?t=1711)
 
 [^12]: . vidéos sur la fermentation
 
-    \- [sheng cha fermentation](https://youtu.be/d2BekCvAZqM?t=448)  
-    \- [shu cha fermentation](https://invidio.us/watch?v=oI4yDyH1oUM)
+    \- [sheng cha fermentation](https://invidio.us/d2BekCvAZqM?t=448)  
+    \- [shu cha fermentation](https://invidio.us/oI4yDyH1oUM)
