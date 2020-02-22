@@ -64,7 +64,7 @@ La torréfaction, quand il y en a une, pourra se faire en une ou en plusieurs fo
 
 [^10]:  . vidéos de séchage :
 
-    \- [white tea drying](https://youtu.be/GtDSfYq4sPg?t=1835)  
+    \- [white tea drying](https://youtu.be/GtDSfYq4sPg?t=1981)  
     \- [four de séchage industriel](https://invidio.us/watch?v=ftMU1J-4Jvg)
 
 [^11]: . [wulong roasting](https://youtu.be/CS-KCBmY2pA?t=1711)
