@@ -17,7 +17,7 @@ La description des étapes proposée ici est très réductrice, elle généralis
 
 ### Les différentes étapes
 
-![types de thés](./media/types-de-thés.svg) [^2]
+![types de thés](./media/types-de-thé.svg) [^2]
 
 - **La cueillette** [^3] : Les bourgeons de thé et/ou deux jeunes feuilles sont cueillies sur les buissons de _Camellia Sinensis_ principalement au printemps et début de l'été et plus rarement en automne  
 - **Flétrissage** [^4] : Les feuilles de thé commencent à se flétrir peu après la cueillette, avec un début progressif d'oxydation enzymatique. Le flétrissage est utilisé pour éliminer l'excès d'eau des feuilles et permet une très légère oxydation. Les feuilles peuvent être soit mises au soleil, soit laissées dans une pièce fraîche et brillante
