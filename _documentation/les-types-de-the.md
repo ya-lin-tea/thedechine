@@ -7,6 +7,8 @@ author: pointbar
 
 ## Les 6 types de thés
 
+Tous les thés sont un produit de la plante Camellia sinensis.  
+
 Considérer de manière équivalente des thés qui partagent des caractéristiques communes ; j'imagine que c'est un premier pas. Cela permet de réduire la complexité en dépassant les spécificités au profit de la généralité.  
   
 Malgré la disparité des thés, les sources semblent s'accorder sur 6 types de thés [^1]  
@@ -65,10 +67,39 @@ Quelques thés wulong connus :
 - Ban Yan
 - Dong Ding
 - Gao Shan
+- Yunnan Da Ye
 
 ### 红茶 - hóng chá - thé rouge
 
+Les thés rouge[^7] (noir en occident) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, le thé rouge était considéré comme de moindre qualité et n'était pas consommé en Chine.  
+
+Depuis la fin de la Seconde Guerre mondiale, la popularité des thés rouges n'a cessé de croître et au cours des vingt dernières années, une série d'hybrides intéressants ont été créés qui ont grandement amélioré la diversité et le goût du thé. Les feuilles de thé noir proviennent souvent de la sous-variété Assam : le _camellia sinensis assamica_ ou de nouveaux hybrides.
+
+Quelques thés rouges connus :
+
+- Keemun
+- Zheng Shan Xiao Zhong
+- Congou
+- Dian Hong
+- Jin Jun Mei
+- Bi Luo Chun
+
 ### 黑茶, hēi chá - Thé noir
+
+
+#### Fermentation accélérée
+
+Fabriqué selon une méthode traditionnelle depuis des siècles, cette famille occupent une place importante dans l'histoire des spécialités régionales de thé en Chine. Un traitement final est réalisé par (post-)fermentation. Dans le passé, ces thés étaient appelés 边销茶 - _Bian Xiao Cha_ (thé de la frontière). Leur nom vient de la couleur des feuilles de thé séchées qui résulte de l'utilisation de vieilles matières premières grossières et d'une longue _fermentation en tas_. Il ne s'agit pas de feuilles de thé de printemps élégantes, ni de techniques habiles de roulage à la main. C'est pourtant un thé élégant simple et sobre. À l'époque, c'était le seul thé accessible à tou·te·s.  
+Ces dix dernières années, ce type de thé a gagné en popularité dans les provinces chinoises de Canton, du Yunnan, du Sichuan et du Guangxi.
+
+Quelques thés noires à fermentation accélérées connus :
+
+- Liu An
+- Liu Bao
+- shu Pu'er
+- Hua Juan
+- Qing Zhuan
+- Tian Jian
 
 #### Le 红 et le 黑
 
@@ -104,6 +135,8 @@ Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'�
 
     \- [Tie Guan Yin](https://invidio.us/watch?v=CS-KCBmY2pA)  
     \- [Dan Cong](https://invidio.us/watch?v=jXYFbWHHRXs)
+
+[^7]: [Keemun reportage](https://invidio.us/watch?v=kk7fA1-t7YA)
 
 [^10]: une entreprise qui nous rappelle d'où vient la culture du thé en france
 
