@@ -129,7 +129,7 @@ Petit jeu pour faire disjoncter un traducteur automatique :
 | [rouge ](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=rouge)                | [红 Hóng](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=rouge)                 |
 | [noir](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=noir)                   | [黑 Hēi](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=noir)                   |
 | [thé rouge ](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20rouge) | [红茶 Hóngchá](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20rouge) |
-| [Thé noir](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20noir)    | [??? 🤪](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20noir)        |
+| [Thé noir](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20noir)    | [??? 🤪](https://fanyi.baidu.com/#fra/zh/th%C3%A9%20noir)                                                         |
 
 Il existe une différence lorsque l'on compare la classification des expert·e·s chinois·e et celle du système occidental. Pour les occidentaux les thés rouges sont des thés noirs.  
 Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^9]
