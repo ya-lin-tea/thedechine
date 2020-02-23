@@ -86,13 +86,32 @@ Quelques thés rouges connus :
 
 ### 黑茶, hēi chá - Thé noir
 
+#### Fermentation naturelle
+
+Dans cette famille on trouve le _pu'er_ qui est un type de thé fabriqué à partir de feuilles d'une variété de théier nommé _Camellia sinensis assamica_ poussant dans le _Yunnan_. Le thé _pu'er_ est une _appellation contrôlée_ qui ne peut être produit qu'à partir de feuilles récoltées sur des théiers à grandes feuilles _da ye_ poussant dans le Yunnan, séchées au soleil et ayant subi une fermentation.
+
+Conditionné sous forme compressée (galette, nid, etc.) et stocké dans de bonnes conditions, le thé _pu'er_ est un produit vivant qui peut se bonifier avec le temps. Durant ce vieillissement s'opère une _fermentation_.  
+
+Il existe des thés fabriqués comme les _pu er_ mais dans d'autres régions. (à creuser)
+
+Quelques thés noirs à fermentation naturelle connus :
+
+- Lao Ban Zhang
+- Naka
+- Bing Dao
+- Gua Feng Zhai
+- Wan Gong
+- Xi Gui
+- Dayi, Menghai Tea Factory
+- Ba Jiao Ting, Liming Tea Factory
+
 
 #### Fermentation accélérée
 
 Fabriqué selon une méthode traditionnelle depuis des siècles, cette famille occupent une place importante dans l'histoire des spécialités régionales de thé en Chine. Les feuilles de thé oxydées subissent un processus de fermentation - 渥堆 - _wò duī_ (en tas humide). Dans le passé, ces thés étaient appelés 边销茶 - _Bian Xiao Cha_ (thé de la frontière). Leur nom vient de la couleur des feuilles de thé séchées qui résulte de l'utilisation de vieilles matières premières grossières et d'une longue _fermentation en tas_. Il ne s'agit pas de feuilles de thé de printemps élégantes, ni de techniques habiles de roulage à la main. C'est pourtant un thé élégant simple et sobre. À l'époque, c'était le seul thé accessible à tou·te·s.  
 Ces dix dernières années, ce type de thé a gagné en popularité dans les provinces chinoises de Canton, du Yunnan, du Sichuan et du Guangxi.
 
-Quelques thés noirs à fermentation accélérées connus :
+Quelques thés noirs à fermentation accélérée connus :
 
 - Liu An
 - Liu Bao
