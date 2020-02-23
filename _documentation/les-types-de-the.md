@@ -88,7 +88,7 @@ Quelques thés rouges connus :
 
 #### Fermentation naturelle
 
-Dans cette famille on trouve le _pu'er_ qui est un type de thé fabriqué à partir de feuilles d'une variété de théier nommé _Camellia sinensis assamica_ poussant dans le _Yunnan_. Le thé _pu'er_ est une _appellation contrôlée_ qui ne peut être produit qu'à partir de feuilles récoltées sur des théiers à grandes feuilles _da ye_ poussant dans le Yunnan, séchées au soleil et ayant subi une fermentation.
+Dans cette famille on trouve le _pu'er Sheng Cha_ [^9] qui est un type de thé fabriqué à partir de feuilles d'une variété de théier nommé _Camellia sinensis assamica_ poussant dans le _Yunnan_. Le thé _pu'er_ est une _appellation contrôlée_ qui ne peut être produit qu'à partir de feuilles récoltées sur des théiers à grandes feuilles _da ye_ poussant dans le Yunnan, séchées au soleil et ayant subi une fermentation.
 
 Conditionné sous forme compressée (galette, nid, etc.) et stocké dans de bonnes conditions, le thé _pu'er_ est un produit vivant qui peut se bonifier avec le temps. Durant ce vieillissement s'opère une _fermentation_.  
 
@@ -132,7 +132,7 @@ Petit jeu pour faire disjoncter un traducteur automatique :
 | [Thé noir](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20noir)    | [??? 🤪](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20noir)        |
 
 Il existe une différence lorsque l'on compare la classification des expert·e·s chinois·e et celle du système occidental. Pour les occidentaux les thés rouges sont des thés noirs.  
-Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^10]
+Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^9]
 
 ---
 #### Notes
@@ -157,7 +157,9 @@ Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'�
 
 [^7]: [Keemun reportage](https://invidio.us/watch?v=kk7fA1-t7YA)
 
-[^10]: une entreprise qui nous rappelle d'où vient la culture du thé en france
+[^8] : [Making pu'er tea](https://invidio.us/d2BekCvAZqM)
+
+[^9]: une entreprise qui nous rappelle d'où vient la culture du thé en france
 
     \- [la compagnie coloniale](https://compagnie-coloniale.com)  
     \- [affiche](./media/compagnie-coloniale.jpg)
