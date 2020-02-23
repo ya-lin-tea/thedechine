@@ -89,10 +89,10 @@ Quelques thés rouges connus :
 
 #### Fermentation accélérée
 
-Fabriqué selon une méthode traditionnelle depuis des siècles, cette famille occupent une place importante dans l'histoire des spécialités régionales de thé en Chine. Un traitement final est réalisé par (post-)fermentation. Dans le passé, ces thés étaient appelés 边销茶 - _Bian Xiao Cha_ (thé de la frontière). Leur nom vient de la couleur des feuilles de thé séchées qui résulte de l'utilisation de vieilles matières premières grossières et d'une longue _fermentation en tas_. Il ne s'agit pas de feuilles de thé de printemps élégantes, ni de techniques habiles de roulage à la main. C'est pourtant un thé élégant simple et sobre. À l'époque, c'était le seul thé accessible à tou·te·s.  
+Fabriqué selon une méthode traditionnelle depuis des siècles, cette famille occupent une place importante dans l'histoire des spécialités régionales de thé en Chine. Les feuilles de thé oxydées subissent un processus de fermentation - 渥堆 - _wò duī_ (en tas humide). Dans le passé, ces thés étaient appelés 边销茶 - _Bian Xiao Cha_ (thé de la frontière). Leur nom vient de la couleur des feuilles de thé séchées qui résulte de l'utilisation de vieilles matières premières grossières et d'une longue _fermentation en tas_. Il ne s'agit pas de feuilles de thé de printemps élégantes, ni de techniques habiles de roulage à la main. C'est pourtant un thé élégant simple et sobre. À l'époque, c'était le seul thé accessible à tou·te·s.  
 Ces dix dernières années, ce type de thé a gagné en popularité dans les provinces chinoises de Canton, du Yunnan, du Sichuan et du Guangxi.
 
-Quelques thés noires à fermentation accélérées connus :
+Quelques thés noirs à fermentation accélérées connus :
 
 - Liu An
 - Liu Bao
