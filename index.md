@@ -56,14 +56,14 @@ La Grande Barge
 
 ## Ça coûte combien cette petite escapade ?
 
-30€ et ça comprend [le repas du midi](https://danslajungle.oisiflorus.com/montpellier/l-oignon-givre.html)  
+30€ et ça comprend [le repas du midi](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html)  
 
 ### Vous faites quoi des sous ?
 
 On paye les thés et le repas du midi.  
 Peut-être des consommations dans les lieux.  
 Les animateurs n'ont pas souhaité être rémunérés.  
-Si tu veux plus d'infos par ici tu trouveras [les comptes](/budget-montpellier)
+Si tu veux plus d'infos par ici tu trouveras [les comptes](/budget-nantes)
 
 ### Et si c’est trop cher pour moi ?
 
@@ -72,7 +72,7 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 ### On mangera quoi ?
 
 Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens-nous pour que nous puissions en tenir compte.  
-Nous pensons déjeuner à [L'Oignon Givré](https://danslajungle.oisiflorus.com/montpellier/l-oignon-givre.html)  
+Nous pensons déjeuner à [La Grande Barge](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html)  
 
 ## C'est pour qui ?
 
