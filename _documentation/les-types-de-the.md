@@ -35,6 +35,8 @@ Quelques thés verts connus [^4] :
 ### 白茶 - bái chá - thé blanc
 
 Le thé blanc [^5] est un thé légèrement oxydé produit en deux étapes. Sa transformation n'implique aucune sorte de chaleur ou de cuisson. On laisse le thé se _flétrir_, c'est-à-dire qu'on le laisse sécher à l'air libre. Ce processus requiert beaucoup d'habileté et de discernement, un thé mal traité peut moisir et toute une récolte peut être perdue. Contrairement aux idées reçues il est légèrement oxydé (12%) du fait de l'absence de fixation.  
+  
+Le thé blanc fait parti des thés modernes, assez récement (2013) il est entré dans la catégorie des thés de garde qui peuvent se conserver et se bonifier pendant une dizaine d'année.  
 
 Quelques thés blancs connus :
 
