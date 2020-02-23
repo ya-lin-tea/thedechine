@@ -4,7 +4,7 @@ nom: oxydation vs fermentation
 description: différences entre l'oxydation et la fermentation et de la confusion qui entoure ces deux termes dans le monde du thé 
 ---
 
- ## Oxydation vs fermentation
+## Oxydation vs fermentation
 
 ### Qu'est-ce que l'oxydation ?
 

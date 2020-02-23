@@ -22,7 +22,9 @@ La description des étapes proposée ici est très réductrice, elle généralis
 - **La cueillette** [^3] : Les bourgeons de thé et/ou deux jeunes feuilles sont cueillies sur les buissons de _Camellia Sinensis_ principalement au printemps et début de l'été et plus rarement en automne  
 - **Flétrissage** [^4] : Les feuilles de thé commencent à se flétrir peu après la cueillette, avec un début progressif d'oxydation enzymatique. Le flétrissage est utilisé pour éliminer l'excès d'eau des feuilles et permet une très légère oxydation. Les feuilles peuvent être soit mises au soleil, soit laissées dans une pièce fraîche et brillante
   
-- **Oxydation** [^5] : Les feuilles sont parfois cassées pour favoriser l'oxydation. Elles peuvent être simplement secouées ou bien elles sont abîmées en les pétrissant ou en les roulant par exemple [^6]. Elles sont ensuite laissées dans une pièce climatisée où elles deviennent progressivement plus foncées. Dans ce processus, la chlorophylle des feuilles est décomposée par les enzymes et ses tannins sont libérés ou transformés. Ce processus est parfois appelé à tort fermentation dans l'industrie du thé.
+- **Oxydation** [^5] : Les feuilles sont parfois cassées pour favoriser l'oxydation. Elles peuvent être simplement secouées ou bien elles sont abîmées en les pétrissant ou en les roulant par exemple [^6]. Elles sont ensuite laissées dans une pièce climatisée où elles deviennent progressivement plus foncées. Dans ce processus, la chlorophylle des feuilles est décomposée par les enzymes et ses tannins sont libérés ou transformés. Ce processus est parfois appelé à tort fermentation dans l'industrie du thé.  
+
+[en savoir plus](./oxydation-vs-fermentation)
   
 - **Fixation** [^7] : La fixation est effectuée pour arrêter l'oxydation des feuilles de thé à un niveau souhaité. Ce processus est accompli en chauffant modérément les feuilles de thé, ce qui désactive leurs enzymes oxydantes et élimine les odeurs indésirables dans les feuilles, sans endommager la saveur du thé. Traditionnellement, les feuilles de thé sont cuites à la poêle dans un wok ou à la vapeur et plus récemment dans un tambour à rouler
 
