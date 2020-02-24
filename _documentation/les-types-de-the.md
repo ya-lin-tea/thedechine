@@ -2,7 +2,7 @@
 layout: page
 nom: les types de Thé
 description: description des 6 différents type de thé
-author: pointbar
+author: pointbar, thais
 ---
 
 ## Les 6 types de thés
@@ -37,8 +37,13 @@ Quelques thés verts connus [^4] :
 ### 白茶 - bái chá - thé blanc
 
 Le thé blanc [^5] est un thé légèrement oxydé produit en deux étapes. Sa transformation n'implique aucune sorte de chaleur ou de cuisson. On laisse le thé se _flétrir_, c'est-à-dire qu'on le laisse sécher à l'air libre. Ce processus requiert beaucoup d'habileté et de discernement, un thé mal traité peut moisir et toute une récolte peut être perdue. Contrairement aux idées reçues il est légèrement oxydé (12%) du fait de l'absence de fixation.  
-  
-Le thé blanc fait parti des thés modernes, assez récement (2013) il est entré dans la catégorie des thés de garde qui peuvent se conserver et se bonifier pendant une dizaine d'année.  
+
+Comme le suggère un adage populaire dans la tradition Chinoise :
+> 年茶，三年药，七年宝
+> 1 an thé, 3 ans médicament, 7 ans trésors
+
+Le thé blanc fait parti des thés de garde pouvant se bonifier avec le temps.
+On peut le retrouver sous sous la forme de _galettes_ compressées.
 
 Quelques thés blancs connus :
 
@@ -47,6 +52,7 @@ Quelques thés blancs connus :
 - Bai Hao Yin Zhen
 - Yue Guang Bai
 - Ye Sheng Ya Bao
+- Biluo Chun
 
 ### 黄茶 - huáng chá - thé jaune
 
@@ -54,24 +60,23 @@ C'est un thé moins courant dont la fabrication  est similaire à celle du thé 
 
 ### 乌龙茶 - wū lóng chá - thé wulong
 
-Les feuilles de wulong [^6] sont semi-oxydées. Cela signifie que pendant la production, l'oxydation est initiée, contrôlée et arrêtée à un moment donné avant que les feuilles ne soient considérées comme complètement oxydées. C'est pourquoi vous entendrez souvent dire que le wulong se situe entre le thé vert et le thé noir. 
+Les wulong [^6] sont des thés semi-oxydées. Cela signifie que pendant la production, l'oxydation est initiée, contrôlée et arrêtée à un moment donné avant que les feuilles ne soient considérées comme complètement oxydées. C'est pourquoi vous entendrez souvent dire que le _wulong_ se situe entre le thé vert et le thé noir.
 
 Quelques thés wulong connus :
 
-- Tie Guan Yin
-- Dan Cong
-- Ali Shan
+- Tie Guan Yin [^7]
+- Dan Cong [^7]
+- Alishan Wulong
 - Da Hong Pao
-- Ben Shan
+- Ben Shan Wulong
 - Mao Xie
 - Ban Yan
-- Dong Ding
-- Gao Shan
-- Yunnan Da Ye
+- Dong Ding Wulong 
+- Gaoshan Wulong
 
 ### 红茶 - hóng chá - thé rouge
 
-Le thé rouge[^7] (noir en occident) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et n'était pas consommée en Chine.  
+Le thé rouge[^8] (noir en occident) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et n'était pas consommée en Chine.  
 
 Depuis la fin de la Seconde Guerre mondiale, la popularité des thés rouges n'a cessé de croître et au cours des vingt dernières années, une série d'hybrides intéressants ont été créés qui ont grandement amélioré la diversité et le goût du thé. Les feuilles de thé noir proviennent souvent de la sous-variété Assam : le _camellia sinensis assamica_ ou de nouveaux hybrides.
 
@@ -82,7 +87,6 @@ Quelques thés rouges connus :
 - Congou
 - Dian Hong
 - Jin Jun Mei
-- Bi Luo Chun
 
 ### 黑茶, hēi chá - Thé noir
 
@@ -132,7 +136,7 @@ Petit jeu pour faire disjoncter un traducteur automatique :
 | [Thé noir](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20noir)    | [??? 🤪](https://fanyi.baidu.com/#fra/zh/th%C3%A9%20noir)                                                         |
 
 Il existe une différence lorsque l'on compare la classification des expert·e·s chinois·e et celle du système occidental. Pour les occidentaux les thés rouges sont des thés noirs.  
-Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^9]
+Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^10]
 
 ---
 #### Notes
@@ -150,16 +154,18 @@ Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'�
 
 [^5]: [White tea reportage](https://invidio.us/watch?v=GtDSfYq4sPg)
 
-[^6]: vidéos reportage
+[^6] : [Wulonng guide](https://teaepicure.com/oolong-tea-guide)
+
+[^7]: vidéos reportage
 
     \- [Tie Guan Yin](https://invidio.us/watch?v=CS-KCBmY2pA)  
     \- [Dan Cong](https://invidio.us/watch?v=jXYFbWHHRXs)
 
-[^7]: [Keemun reportage](https://invidio.us/watch?v=kk7fA1-t7YA)
+[^8]: [Keemun reportage](https://invidio.us/watch?v=kk7fA1-t7YA)
 
-[^8] : [Making pu'er tea](https://invidio.us/d2BekCvAZqM)
+[^9] : [Making pu'er tea](https://invidio.us/d2BekCvAZqM)
 
-[^9]: une entreprise qui nous rappelle d'où vient la culture du thé en france
+[^10]: une entreprise qui nous rappelle d'où vient la culture du thé en france
 
     \- [la compagnie coloniale](https://compagnie-coloniale.com)  
     \- [affiche](./media/compagnie-coloniale.jpg)
