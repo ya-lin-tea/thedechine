@@ -71,7 +71,7 @@ Quelques thés wulong connus :
 
 ### 红茶 - hóng chá - thé rouge
 
-Les thés rouge[^7] (noir en occident) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, le thé rouge était considéré comme de moindre qualité et n'était pas consommé en Chine.  
+Le thé rouge[^7] (noir en occident) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et n'était pas consommée en Chine.  
 
 Depuis la fin de la Seconde Guerre mondiale, la popularité des thés rouges n'a cessé de croître et au cours des vingt dernières années, une série d'hybrides intéressants ont été créés qui ont grandement amélioré la diversité et le goût du thé. Les feuilles de thé noir proviennent souvent de la sous-variété Assam : le _camellia sinensis assamica_ ou de nouveaux hybrides.
 
