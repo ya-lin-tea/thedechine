@@ -7,7 +7,7 @@ author: pointbar, thais
 
 ## Les 6 types de thés
 
-Tous les thés sont un produit de la plante Camellia sinensis.  
+Tous les thés sont un produit de la plante _camellia sinensis_.  
 
 Considérer de manière équivalente des thés qui partagent des caractéristiques communes ; j'imagine que c'est un premier pas. Cela permet de réduire la complexité en dépassant les spécificités au profit de la généralité.  
   
