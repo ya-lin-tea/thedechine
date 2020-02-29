@@ -2,7 +2,7 @@
 layout: page
 nom: le rouge ou le noir ?
 description: clarification thé rouge vs thé noir
-author: pointbar
+par: pointbar
 ---
 
 ## Le 红 et le 黑

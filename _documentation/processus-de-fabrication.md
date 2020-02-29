@@ -2,7 +2,7 @@
 layout: page
 nom: le processus de fabrication du thé
 description: description des différentes étapes de fabrication du thé
-author: pointbar
+par: pointbar
 ---
 
 ## Processus de fabrication du thé

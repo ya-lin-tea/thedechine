@@ -2,7 +2,7 @@
 layout: page
 nom: les types de Thé
 description: description des 6 différents type de thé
-author: pointbar, thais
+par: pointbar, thais
 ---
 
 ## Les 6 types de thés
