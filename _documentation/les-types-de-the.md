@@ -15,7 +15,7 @@ Malgré la disparité des thés, les sources semblent s'accorder sur 6 types de 
   
 Pour établir un classement on pourrait se servir de la couleur des feuilles après traitement, du pourcentage d'oxydation ou de la robe de la _liqueur_ mais ça ne permet pas de classer tous les styles. La classification selon les étapes de fabrication semble être une meilleure piste [^2].
 
-> on m'a appris à me souvenir du feu de circulation et du panda. C'est-à-dire le rouge, le jaune, le vert et le noir et blanc pour couvrir tout les thés chinois
+> on m'a appris à me souvenir du feu de circulation et du panda. C'est-à-dire le rouge, le jaune, le vert et le noir et blanc pour couvrir tout les thés chinois [^10]
 
 ![types de thés](./media/types-de-the.svg)
 
@@ -78,7 +78,7 @@ Quelques thés wulong connus :
 
 ### 红茶 - hóng chá - thé rouge
 
-Le thé rouge[^8] (noir en occident) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et n'était pas consommée en Chine.  
+Le thé rouge[^8] ([noir en occident](/le-rouge-ou-le-noir)) est un thé complètement oxydé. Il était à l'origine uniquement destiné à l'exportation vers les marchés étrangers. Au XXème, cette famille était considérée comme de moindre qualité et n'était pas consommée en Chine.  
 
 Depuis la fin de la Seconde Guerre mondiale, la popularité des thés rouges n'a cessé de croître et au cours des vingt dernières années, une série d'hybrides intéressants ont été créés qui ont grandement amélioré la diversité et le goût du thé. Les feuilles de thé noir proviennent souvent de la sous-variété Assam : le _camellia sinensis assamica_ ou de nouveaux hybrides.
 
@@ -111,7 +111,6 @@ Quelques thés noirs à fermentation naturelle connus :
 - Dayi, Menghai Tea Factory
 - Ba Jiao Ting, Liming Tea Factory
 
-
 #### Fermentation accélérée
 
 Fabriqué selon une méthode traditionnelle depuis des siècles, cette famille occupent une place importante dans l'histoire des spécialités régionales de thé en Chine. Les feuilles de thé oxydées subissent un processus de fermentation - 渥堆 - _wò duī_ (en tas humide). Dans le passé, ces thés étaient appelés 边销茶 - _Bian Xiao Cha_ (thé de la frontière). Leur nom vient de la couleur des feuilles de thé séchées qui résulte de l'utilisation de vieilles matières premières grossières et d'une longue _fermentation en tas_. Il ne s'agit pas de feuilles de thé de printemps élégantes, ni de techniques habiles de roulage à la main. C'est pourtant un thé élégant simple et sobre. À l'époque, c'était le seul thé accessible à tou·te·s.  
@@ -125,20 +124,6 @@ Quelques thés noirs à fermentation accélérée connus :
 - Hua Juan
 - Qing Zhuan
 - Tian Jian
-
-#### Le 红 et le 黑
-
-Petit jeu pour faire disjoncter un traducteur automatique :
-
-| en français                                                                                                     | en chinois                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [rouge ](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=rouge)                | [红 Hóng](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=rouge)                 |
-| [noir](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=noir)                   | [黑 Hēi](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=noir)                   |
-| [thé rouge ](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20rouge) | [红茶 Hóngchá](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20rouge) |
-| [Thé noir](https://translate.google.com/?hl=fr#view=home&op=translate&sl=auto&tl=zh-CN&text=th%C3%A9%20noir)    | [??? 🤪](https://fanyi.baidu.com/#fra/zh/th%C3%A9%20noir)                                                         |
-
-Il existe une différence lorsque l'on compare la classification des expert·e·s chinois·e et celle du système occidental. Pour les occidentaux les thés rouges sont des thés noirs.  
-Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^10]
 
 ---
 #### Notes
@@ -167,9 +152,4 @@ Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'�
 
 [^9] : [Making pu'er tea](https://invidio.us/d2BekCvAZqM)
 
-[^10]: une entreprise qui nous rappelle d'où vient la culture du thé en france
-
-    \- [la compagnie coloniale](https://compagnie-coloniale.com)  
-    \- [affiche](./media/compagnie-coloniale.jpg)
-
-[^11]: [Cultivation of self and Chinese Tea Drinking](https://medium.com/@karen.tsui/cultivation-of-self-and-chinese-tea-drinking-491b5028cde0)
+[^10]: [Cultivation of self and Chinese Tea Drinking](https://medium.com/@karen.tsui/cultivation-of-self-and-chinese-tea-drinking-491b5028cde0)
