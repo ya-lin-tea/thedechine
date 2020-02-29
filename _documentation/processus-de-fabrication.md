@@ -47,7 +47,7 @@ La fermentation accélérée vise à raccourcir le processus de vieillissement, 
 
 [^3]: [white tea picking](https://www.youtube.com/GtDSfYq4sPg?t=765)
 
-[^4]: vidéos sur le fletrissage :
+[^4]: vidéos sur le flétrissage :
 
     \- [red tea withering](https://invidio.us/kk7fA1-t7YA?t=345)  
     \- [pu'er tea withering](https://invidio.us/ZAcpNMRY4LE?t=587)
