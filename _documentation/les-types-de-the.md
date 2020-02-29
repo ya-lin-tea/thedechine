@@ -9,11 +9,13 @@ author: pointbar, thais
 
 Tous les thés sont un produit de la plante _camellia sinensis_.  
 
-Considérer de manière équivalente des thés qui partagent des caractéristiques communes ; j'imagine que c'est un premier pas. Cela permet de réduire la complexité en dépassant les spécificités au profit de la généralité.  
+Catégoriser des thés qui partagent des caractéristiques communes ; j'imagine que c'est un premier pas pour réduire la complexité en dépassant les spécificités au profit de la généralité.  
   
 Malgré la disparité des thés, les sources semblent s'accorder sur 6 types de thés [^1]  
   
-Pour comprendre ce classement on pourrait se servir de la couleur des feuilles après traitement, du pourcentage d'oxydation ou de la robe de la _liqueur_ mais ça ne permet pas de classer tous les styles. La classification selon les étapes de fabrication semble être une meilleure piste [^2].
+Pour établir un classement on pourrait se servir de la couleur des feuilles après traitement, du pourcentage d'oxydation ou de la robe de la _liqueur_ mais ça ne permet pas de classer tous les styles. La classification selon les étapes de fabrication semble être une meilleure piste [^2].
+
+> on m'a appris à me souvenir du feu de circulation et du panda. C'est-à-dire le rouge, le jaune, le vert et le noir et blanc pour couvrir tout les thés chinois
 
 ![types de thés](./media/types-de-the.svg)
 
@@ -169,3 +171,5 @@ Pour ma part je préfère me caler sur les experts Chinois, ça me permet de m'�
 
     \- [la compagnie coloniale](https://compagnie-coloniale.com)  
     \- [affiche](./media/compagnie-coloniale.jpg)
+
+[^11]: [Cultivation of self and Chinese Tea Drinking](https://medium.com/@karen.tsui/cultivation-of-self-and-chinese-tea-drinking-491b5028cde0)
