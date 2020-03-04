@@ -5,7 +5,7 @@ layout: page
 
 <br>
 
-# Exploration à Nantes, le 17 mars 2020
+# Exploration à Nantes, le 18 mars 2020
 
 **Découvrir et explorer les autres univers du thé**
 
@@ -47,16 +47,11 @@ Stéphane :
 
 ## C'est quand ?
 
-La journée démarre le **mercredi 17 mars 2020 à 9h30** [à la Grande Barge](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html) et se termine vers 18h00.  
-
-**Adresse du point de rendez-vous** :  
-La Grande Barge
-8, rue Grande Biesse
-44000 Nantes
+La journée démarre le **mercredi 18 mars 2020 à 9h30** (on précisera le lieu dans quelques jours)  
 
 ## Ça coûte combien cette petite escapade ?
 
-30€ et ça comprend [le repas du midi](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html)  
+30€ et ça comprend [le repas du midi à la Grand Barge](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html)  
 
 ### Vous faites quoi des sous ?
 
@@ -86,11 +81,14 @@ Ta bonne humeur et de quoi t’habiller confortablement pour marcher (un peu).
 
 ## Quelques lieux pressentis pour cette édition
 
+- [le café des Pangolins](https://danslajungle.oisiflorus.com/nantes/le-cafe-des-pangolins.html)
 - [Bad Hunter](https://danslajungle.oisiflorus.com/nantes/bad-hunter.html)
 - [Ici](https://danslajungle.oisiflorus.com/nantes/ici.html)
 - [Les bien aimés](https://danslajungle.oisiflorus.com/nantes/les-bien-aimes.html)
 
 ## Est-ce que d'autres villes sont prévues ?
+
+On va sans doute refaire une édition à [Montpellier](/montpellier)
 
 Pas encore, s'il y a de l'intérêt et qu'on découvre de la valeur on risque de jouer ce type de journée à :
 
