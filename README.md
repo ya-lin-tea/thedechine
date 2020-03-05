@@ -3,7 +3,7 @@
 ## exploration au pays des thés de Chine
 
 - Montpellier le mercredi 12 février
-- Nantes le mercredi 17 mars
+- Nantes le mercredi 18 mars
 
 ## Licence
 
