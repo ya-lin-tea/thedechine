@@ -58,7 +58,7 @@ La journée démarre le **mercredi 18 mars 2020 à 9h30** (on précisera le lieu
 On paye les thés et le repas du midi.  
 Peut-être des consommations dans les lieux.  
 Les animateurs n'ont pas souhaité être rémunérés.  
-Si tu veux plus d'infos par ici tu trouveras [les comptes](/budget-nantes)
+Si tu veux plus d'infos par ici tu trouveras [les comptes](/budget)
 
 ### Et si c’est trop cher pour moi ?
 
@@ -84,7 +84,7 @@ Ta bonne humeur et de quoi t’habiller confortablement pour marcher (un peu).
 - [le café des Pangolins](https://danslajungle.oisiflorus.com/nantes/le-cafe-des-pangolins.html)
 - [Bad Hunter](https://danslajungle.oisiflorus.com/nantes/bad-hunter.html)
 - [Ici](https://danslajungle.oisiflorus.com/nantes/ici.html)
-- [Les bien aimés](https://danslajungle.oisiflorus.com/nantes/les-bien-aimes.html)
+- [Le Loo](https://danslajungle.oisiflorus.com/nantes/le-loo.html)
 
 ## Est-ce que d'autres villes sont prévues ?
 
