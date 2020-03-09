@@ -6,7 +6,7 @@ defaults:
       path: ""
     values:
       layout: location
-  - description: "Site"
+      description: "Thaïs et Stéphane explorent l'univers des thés de Chine et proposent des expériences originales pour découvrir l'authentique culture du thé"
 
 collections:
   montpellier:
