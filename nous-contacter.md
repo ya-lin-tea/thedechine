@@ -20,7 +20,7 @@ Au choix :
 
 C'est quoi [mastodon](https://fr.wikipedia.org/wiki/Mastodon_(r%C3%A9seau_social)) ?
 
-### Par Slack
+### Avec Slack
 
 Tu peux aussi demander à nous rejoindre pour échanger avec nous : [oisiflorus.slack.com](https://oisiflorus.slack.com)
 

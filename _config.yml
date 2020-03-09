@@ -6,6 +6,7 @@ defaults:
       path: ""
     values:
       layout: location
+  - description: "Site"
 
 collections:
   montpellier:

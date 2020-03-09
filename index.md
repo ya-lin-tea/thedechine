@@ -41,8 +41,7 @@ Thaïs :
 > Aujourd'hui, je suis juriste d'affaire entre la Chine et la France et dans le monde du thé je suis en relation avec les producteurs, vendeurs, profs, écoles de thé, salon de thé, amateurs et représentants des grandes marques de thé.
 
 Stéphane :
-> En 2012, un ami qui vivait au Japon m'a ramené un thé qui m'a éveillé. 4 ans plus tard, c'est ma fille qui en me poussant à rentrer dans une boutique du boulevard Saint-Germain a créé le déclic. [M. Messavant](https://lelephant-larevue.fr/thematiques/chine-produit-6-grandes-familles-de-the/), le propriétaire, a attisé ma curiosité en me faisant découvrir les thés de Chine et la culture associée.  
-
+> C'est ma fille qui en me poussant à rentrer dans une boutique du boulevard Saint-Germain a créé le déclic. [M. Messavant](https://lelephant-larevue.fr/thematiques/chine-produit-6-grandes-familles-de-the/), le propriétaire, a attisé ma curiosité en me faisant découvrir les thés de Chine et la culture associée. 
 > En parallèle, je travaille depuis 10 ans sur les pratiques collaboratives et propose des formats d'apprentissage originaux comme, par exemple, cette journée d'exploration.
 
 ## C'est quand ?
