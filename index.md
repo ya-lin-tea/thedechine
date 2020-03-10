@@ -46,7 +46,7 @@ Stéphane :
 
 ## C'est quand ?
 
-La journée démarre le **mercredi 18 mars 2020 à 9h30** (on précisera le lieu dans quelques jours) 
+La journée démarre le **mercredi 18 mars 2020 à 9h30**
 
 Le lieu de rendez-vous :
 
