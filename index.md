@@ -46,7 +46,13 @@ Stéphane :
 
 ## C'est quand ?
 
-La journée démarre le **mercredi 18 mars 2020 à 9h30** (on précisera le lieu dans quelques jours)  
+La journée démarre le **mercredi 18 mars 2020 à 9h30** (on précisera le lieu dans quelques jours) 
+
+Le lieu de rendez-vous :
+
+- [Chapitre T](https://danslajungle.oisiflorus.com/nantes/chapitre-t.html)
+- [1 bis, rue Camille Berruyer](https://www.openstreetmap.org/node/6185143601)
+
 
 ## Ça coûte combien cette petite escapade ?
 
@@ -67,7 +73,6 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens-nous pour que nous puissions en tenir compte.  
 Nous pensons déjeuner à [La Grande Barge](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html)  
-
 ## C'est pour qui ?
 
 C'est pour toi si tu aimes le thé ou tu es curieu·x·se d'apprendre, même et surtout si tu n'y connais rien
@@ -80,6 +85,7 @@ Ta bonne humeur et de quoi t’habiller confortablement pour marcher (un peu).
 
 ## Quelques lieux pressentis pour cette édition
 
+- [Chapitre T](https://danslajungle.oisiflorus.com/nantes/chapitre-t.html)
 - [le café des Pangolins](https://danslajungle.oisiflorus.com/nantes/le-cafe-des-pangolins.html)
 - [Bad Hunter](https://danslajungle.oisiflorus.com/nantes/bad-hunter.html)
 - [Ici](https://danslajungle.oisiflorus.com/nantes/ici.html)
