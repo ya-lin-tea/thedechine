@@ -11,11 +11,10 @@ layout: page
 
 Exemple de sujets :
 
+- ateliers de dégustation : (arôme, saveur, texture, couleur, etc.)
 - les petits secrets de l'infusion
 - les différents types de thés et leurs profils
 - Pu'er, un autre univers : (cru, cuit, fermenté, etc.)
-- déguster et échanger : (arôme, saveur, texture, couleur, etc.)
-- découvrir les ustensiles
   
 {% include s-inscrire.html %}
 
@@ -25,7 +24,7 @@ Contact : [Stéphane](mail:stephane.langois@scopyleft.fr) ou [nous contacter](/n
 
 Nous serons 10 personnes maximum et partirons à la rencontre de lieux insolites à Nantes pour découvrir les thés de Chine.  
   
-Dans chaque lieu, en binôme ou en groupe, on explore une partie des sujets en jouant des ateliers puis on passe à l'endroit suivant. Les trajets entre les différents lieux sont utilisés pour échanger sur la session qui vient de se dérouler.
+Dans chaque lieu, en binôme ou en groupe, on explore une partie des sujets puis on passe à l'endroit suivant. Les trajets entre les différents lieux sont utilisés pour échanger sur la session qui vient de se dérouler.
 
 _Précédente édition : [Montpellier](/montpellier)_
 
@@ -79,17 +78,13 @@ C'est pour toi si tu aimes le thé ou tu es curieu·x·se d'apprendre, même et 
   
 Nous souhaitons être attenti·f·ve·s à ce que tout le monde puisse se sentir à l'aise, nous proposons une fiche sur les [attentes collectives](https://thedechine.oisiflorus.com/attentes-collectives) pour clarifier nos attentes
 
-## Il faut que je prévois des trucs ?
-
-Ta bonne humeur et de quoi t’habiller confortablement pour marcher (un peu).
-
 ## Quelques lieux pressentis pour cette édition
 
 - [Chapitre T](https://danslajungle.oisiflorus.com/nantes/chapitre-t.html)
+- [ôjacaranda](http://ojacaranda.com/)
 - [le café des Pangolins](https://danslajungle.oisiflorus.com/nantes/le-cafe-des-pangolins.html)
-- [Bad Hunter](https://danslajungle.oisiflorus.com/nantes/bad-hunter.html)
-- [Ici](https://danslajungle.oisiflorus.com/nantes/ici.html)
 - [Le Loo](https://danslajungle.oisiflorus.com/nantes/le-loo.html)
+- [La Grande Barge](https://danslajungle.oisiflorus.com/nantes/la-grande-barge.html)
 
 ## Est-ce que d'autres villes sont prévues ?
 
