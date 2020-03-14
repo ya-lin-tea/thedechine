@@ -14,11 +14,15 @@ Le coût de la journée est de **30 €** - _ce prix intègre le repas du midi_
 
 Avant la journée, on s’appellera pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.  
 
-## Qui vient ?
+## Participant·e·s pressenti·e·s
 
-Pour l'instant il reste 7 places :
+Pour l'instant il reste 3 places :
 
 - Yohann R.
+- Ya Lin C.
+- Jim J.
+- Pierre-Marie B.
+- Théine
 
 ## Attentes collectives
 
