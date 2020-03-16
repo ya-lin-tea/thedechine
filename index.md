@@ -5,7 +5,7 @@ layout: page
 
 <br>
 
-# Exploration à Nantes, le 18 mars 2020
+# Exploration à Nantes, annulée
 
 **Découvrir et explorer les autres univers du thé**
 
@@ -16,7 +16,9 @@ Exemple de sujets :
 - les différents types de thés et leurs profils
 - Pu'er, un autre univers : (cru, cuit, fermenté, etc.)
   
-{% include s-inscrire.html %}
+---
+**ANNULATION**
+---
 
 Contact : [Stéphane](mail:stephane.langois@scopyleft.fr) ou [nous contacter](/nous-contacter)
 

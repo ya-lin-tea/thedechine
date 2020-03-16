@@ -7,9 +7,9 @@ par: pointbar
 
 ## Le 红 et le 黑
 
-Il existe une différence lorsque l'on compare la classification des expert·e·s chinois·e et celle du système occidental. Pour les occidentaux les thés rouges sont des thés noirs.
+Il existe une différence lorsque l'on compare la classification des expert·e·s chinois·e·s et celle du système occidental. Pour les occidentaux les thés rouges sont des thés noirs.
 
-Pour ma part, je préfère m'accorder sur les experts Chinois, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^1]
+Pour ma part, je préfère m'accorder sur les expert·e·s chinois·e·s, ça me permet de m'éloigner de la culture coloniale qui hante le thé occidental tout en évitant de compléxifier inutilement la classification [^1]
 
 Petit jeu pour faire disjoncter un traducteur automatique :
 
