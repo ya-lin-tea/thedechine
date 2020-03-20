@@ -2,7 +2,7 @@
 layout: page
 nom: les types de Thé
 description: description des 6 différents type de thé
-par: pointbar, thais
+par: pointbar, thais, ya-lin
 ---
 
 ## Les 6 types de thés
@@ -62,7 +62,7 @@ C'est un thé moins courant dont la fabrication  est similaire à celle du thé 
 
 ### 乌龙茶 - wū lóng chá - thé wulong
 
-Les wulong [^6] sont des thés semi-oxydées. Cela signifie que pendant la production, l'oxydation est initiée, contrôlée et arrêtée à un moment donné avant que les feuilles ne soient considérées comme complètement oxydées. C'est pourquoi vous entendrez souvent dire que le _wulong_ se situe entre le thé vert et le thé noir.
+Les wulong [^6] sont des thés semi-oxydées. Cela signifie que pendant la production, l'oxydation est initiée, contrôlée et arrêtée à un moment donné avant que les feuilles ne soient considérées comme complètement oxydées. C'est pourquoi vous entendrez souvent dire que le _wulong_ se situe entre le thé vert et le thé rouge.
 
 Quelques thés wulong connus :
 
